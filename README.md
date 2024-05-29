@@ -1,8 +1,12 @@
 
 
+# About the project
+
+This project is built using Laravel version 11, a modern PHP framework known for its elegant syntax and robust features, facilitating efficient web application development. The project utilizes MySQL as its database management system, Additionally, Laravel Cashier is integrated into the project to handle payment services
+
 ## Laravel Project Installation Setup
     Prerequisites
-    PHP >= 7.1.3
+    PHP >= 8.2
     Composer
     Node.js & npm
 
