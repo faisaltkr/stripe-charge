@@ -71,9 +71,6 @@ class ProductController extends Controller
         
         $product = Product::find($request->id);
 
-        
-        //$user = $request->user();
-
         // return Checkout::guest()->create("price_1PLeqaKg5RGvwH6hc6IK143q", [
         //     'success_url' => route('checkout-success'),
         //     'cancel_url' => route('checkout-cancel'),
