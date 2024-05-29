@@ -14,7 +14,7 @@ This project is built using Laravel version 11, a modern PHP framework known for
 ## Steps
 
 ### 1. Clone the repository:
-    git clone https://github.com/your-repo/stripe-charge.git
+    git clone https://github.com/faisaltkr/stripe-charge.git
     cd stripe-charge
 
 
